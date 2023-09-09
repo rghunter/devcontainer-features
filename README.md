@@ -16,7 +16,7 @@ Running `hello` inside the built container will print the greeting provided to i
 {
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
-        "ghcr.io/devcontainers/feature-starter/hello:1": {
+        "ghcr.io/rghunter/devcontainer-features/hello:1": {
             "greeting": "Hello"
         }
     }
